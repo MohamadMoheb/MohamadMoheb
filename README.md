@@ -1,1 +1,1 @@
-<h1 align="center">Hi 👋, I'm Mohamad Moheb 
+<h1 align="center">I'm Mohamad Moheb 
