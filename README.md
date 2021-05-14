@@ -5,5 +5,5 @@
 <a href=https://m0edah0e.github.io/Website/><img align="center" src="https://i.ibb.co/L1wkhtf/p.png" alt="m0edah0e Personal Website" height="64" width="64" /></a>
 <a href=https://m0edah0e.github.io/Forsaken//><img align="center" src="https://i.ibb.co/5WMDwCG/Icon.png" alt="Forsaken" height="64" width="64" /></a>
 <a href=https://falasteen-1948.github.io/Website/><img align="center" src="https://i.ibb.co/9p6XBVD/Falasteen-png.png" alt="Falasteen Org" height="64" width="64" /></a>
-<a href=https://github.com/Mazzika-Discord-Music-Bot><img align="center" src="https://i.ibb.co/64t99K4/77557099.png" alt="Mazzika Org" height="64" width="64" /></a>
+<a href=https://mazzika-discord-music-bot.github.io/Website/t><img align="center" src="https://i.ibb.co/64t99K4/77557099.png" alt="Mazzika Org" height="64" width="64" /></a>
 </p>
