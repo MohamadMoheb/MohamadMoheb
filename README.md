@@ -2,7 +2,7 @@
 <p align="center">
 <a href=https://mohamadmoheb.github.io/Website/><img align="center" src="https://i.ibb.co/GPjvtk5/Personal-Website.png" alt="Website" height="64" width="64" target="_blank"/></a>
 <a href=https://twitter.com/m0edah0e><img align="center" src="https://i.ibb.co/CvjMDdh/twitter.png" alt="Twitter" height="64" width="64" target="_blank"/></a>
-<a href=https://www.instagram.com/mohamadmohebx><img align="center" src="https://i.ibb.co/GJyp6z9/insta.png" alt="Instagram" height="64" width="64" target="_blank"/></a>
+<a href=https://www.instagram.com/mohamadmohebx><img align="center" src="https://i.ibb.co/94BjtKY/Instagram.png" alt="Instagram" height="64" width="64" target="_blank"/></a>
 <a href=https://www.facebook.com/m0edah0e><img align="center" src="https://i.ibb.co/4d38zjm/face.png" alt="Facebook" height="64" width="64" target="_blank"/></a>
 <a href=https://www.reddit.com/user/m0edah0e><img align="center" src="https://i.ibb.co/3sKfX6M/reddit.png" alt="Reddit" height="64" width="64" target="_blank"/></a>
 <a href=https://www.pinterest.com/mohamadmoheb/_saved/><img align="center" src="https://i.ibb.co/t84WPhG/Pinterest.png" alt="Pinterest" height="64" width="64" target="_blank"/></a>
