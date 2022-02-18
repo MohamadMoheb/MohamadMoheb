@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my profile! Here are some navigation links: </h1>
 <p align="center">
-<a href=https://mohamadmoheb.github.io/Website/><img align="center" src="https://i.ibb.co/GPjvtk5/Personal-Website.png" alt="Website" height="64" width="64" target="_blank"/></a>
+<a href=https://mohamadmoheb.github.io/Website/><img align="center" src="Icons/Website" alt="Website" height="64" width="64" target="_blank"/></a>
 <a href=https://github.com/Electronics-Calculator><img align="center" src="https://avatars.githubusercontent.com/u/99218795?s=400&u=000e48ddd57991f15b9c85ef92fefd4c87176e77&v=4" alt="EC" height="64" width="64" target="_blank"/></a>
 <a href=https://www.linkedin.com/in/mohamad-moheb-901501162/><img align="center" src="Icons/LinkedIn.png" alt="LinkedIn" height="64" width="64" target="_blank"/></a>
 <a href=https://twitter.com/m0edah0e><img align="center" src="Icons/Twitter.png" alt="Twitter" height="64" width="64" target="_blank"/></a>
