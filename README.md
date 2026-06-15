@@ -5,11 +5,17 @@
 </p>
 
 <p align="center">
-  <a href="https://thelogiqlab.com" target="_blank"><img src="https://img.shields.io/badge/Website-thelogiqlab.com-F59E0B?style=for-the-badge&logo=google-chrome&logoColor=1c1917" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/mohamadmoheb2122" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.youtube.com/@TheLogiqLab" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://wa.me/96181922316" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="mailto:thelogiqlab@gmail.com"><img src="https://img.shields.io/badge/Email-thelogiqlab%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://thelogiqlab.com" target="_blank" title="The Logiq Lab">
+    <img src="https://thelogiqlab.com/images/logo-mark.png" alt="The Logiq Lab" height="56" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mohamadmoheb2122" target="_blank" title="LinkedIn">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="48" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@TheLogiqLab" target="_blank" title="YouTube">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube" height="48" />
+  </a>
 </p>
 
 ---
@@ -24,9 +30,23 @@ I run [**The Logiq Lab**](https://thelogiqlab.com) in Rmeileh: bench diagnostics
 
 ## What I'm working on
 
-- **The Logiq Lab** — component-level repair and tested parts — [thelogiqlab.com](https://thelogiqlab.com)
-- **YouTube** — repair walkthroughs — [@TheLogiqLab](https://www.youtube.com/@TheLogiqLab)
-- **Side projects** — web apps and tools between circuits and code
+<p>
+  <a href="https://thelogiqlab.com"><img src="https://thelogiqlab.com/images/logo-mark.png" height="32" valign="middle" alt="" /></a>
+  &nbsp;
+  <a href="https://thelogiqlab.com"><strong>The Logiq Lab</strong></a> — component-level repair and tested parts
+</p>
+
+<p>
+  <a href="https://www.youtube.com/@TheLogiqLab"><img src="https://cdn.simpleicons.org/youtube/FF0000" height="32" valign="middle" alt="" /></a>
+  &nbsp;
+  <a href="https://www.youtube.com/@TheLogiqLab"><strong>YouTube</strong></a> — repair walkthroughs and lab content
+</p>
+
+<p>
+  <img src="https://cdn.simpleicons.org/github/E7E5E4" height="32" valign="middle" alt="" />
+  &nbsp;
+  <strong>Side projects</strong> — web apps and tools between circuits and code
+</p>
 
 ---
 
