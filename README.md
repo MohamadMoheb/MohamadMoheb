@@ -40,7 +40,7 @@ I run <a href="https://thelogiqlab.com" target="_blank" rel="noopener noreferrer
 
 <p align="center">
   <img src="./assets/claude.svg" height="40" alt="Claude" title="Claude" />&nbsp;&nbsp;
-  <img src="./assets/cursor.png" height="40" alt="Cursor" title="Cursor" />&nbsp;&nbsp;
+  <img src="./assets/cursor.svg" height="40" alt="Cursor" title="Cursor" />&nbsp;&nbsp;
   <img src="./assets/supabase.svg" height="40" alt="Supabase" title="Supabase" />&nbsp;&nbsp;
   <img src="./assets/mats-mods.svg" height="40" alt="MATS / MODS" title="MATS / MODS" />&nbsp;&nbsp;
   <img src="./assets/tserver.svg" height="40" alt="AMD Tserver" title="AMD Tserver" />&nbsp;&nbsp;
