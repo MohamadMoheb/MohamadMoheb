@@ -39,14 +39,14 @@ I run <a href="https://thelogiqlab.com" target="_blank" rel="noopener noreferrer
 ## Tech & tools
 
 <p align="center">
-  <img src="./assets/claude.svg" height="40" alt="Claude" title="Claude" />&nbsp;&nbsp;
-  <img src="./assets/cursor.svg" height="40" alt="Cursor" title="Cursor" />&nbsp;&nbsp;
-  <img src="./assets/supabase.svg" height="40" alt="Supabase" title="Supabase" />&nbsp;&nbsp;
-  <img src="./assets/mats-mods.svg" height="40" alt="MATS / MODS" title="MATS / MODS" />&nbsp;&nbsp;
-  <img src="./assets/tserver.svg" height="40" alt="AMD Tserver" title="AMD Tserver" />&nbsp;&nbsp;
-  <img src="./assets/uefitool.png" height="40" alt="UEFITool" title="UEFITool" />&nbsp;&nbsp;
-  <img src="./assets/xgecu.png" height="40" alt="XGPRO" title="XGPRO" />&nbsp;&nbsp;
-  <img src="./assets/winmerge.png" height="40" alt="WinMerge" title="WinMerge" />
+  <a href="https://claude.ai" target="_blank" rel="noopener noreferrer" title="Claude"><img src="./assets/claude.svg" height="40" alt="Claude" /></a>&nbsp;&nbsp;
+  <a href="https://cursor.com" target="_blank" rel="noopener noreferrer" title="Cursor"><img src="./assets/cursor.svg" height="40" alt="Cursor" /></a>&nbsp;&nbsp;
+  <a href="https://supabase.com" target="_blank" rel="noopener noreferrer" title="Supabase"><img src="./assets/supabase.svg" height="40" alt="Supabase" /></a>&nbsp;&nbsp;
+  <a href="https://developer.nvidia.com" target="_blank" rel="noopener noreferrer" title="MATS / MODS"><img src="./assets/mats-mods.svg" height="40" alt="MATS / MODS" /></a>&nbsp;&nbsp;
+  <a href="https://www.amd.com/en/products/software" target="_blank" rel="noopener noreferrer" title="AMD Tserver"><img src="./assets/tserver.svg" height="40" alt="AMD Tserver" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/LongSoft/UEFITool" target="_blank" rel="noopener noreferrer" title="UEFITool"><img src="./assets/uefitool.png" height="40" alt="UEFITool" /></a>&nbsp;&nbsp;
+  <a href="https://www.xgecu.com/en/" target="_blank" rel="noopener noreferrer" title="XGPRO"><img src="./assets/xgecu.png" height="40" alt="XGPRO" /></a>&nbsp;&nbsp;
+  <a href="https://winmerge.org" target="_blank" rel="noopener noreferrer" title="WinMerge"><img src="./assets/winmerge.png" height="40" alt="WinMerge" /></a>
 </p>
 
 ---
