@@ -5,47 +5,33 @@
 </p>
 
 <p align="center">
-  <a href="https://thelogiqlab.com" target="_blank" title="The Logiq Lab">
-    <img src="https://thelogiqlab.com/images/logo-mark.png" alt="The Logiq Lab" height="56" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mohamadmoheb2122" target="_blank" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="48" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@TheLogiqLab" target="_blank" title="YouTube">
-    <img src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube" height="48" />
-  </a>
+  <a href="https://thelogiqlab.com" target="_blank" rel="noopener noreferrer" title="The Logiq Lab"><img src="https://thelogiqlab.com/images/logo-mark.png" alt="The Logiq Lab" height="56" /></a><!--
+  --><a href="https://www.linkedin.com/in/mohamadmoheb2122" target="_blank" rel="noopener noreferrer" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="48" hspace="14" /></a><!--
+  --><a href="https://www.youtube.com/@TheLogiqLab" target="_blank" rel="noopener noreferrer" title="YouTube"><img src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube" height="48" hspace="14" /></a>
 </p>
 
 ---
 
 ## About me
 
-Self-taught electronics repair technician and computer science student at [Rafik Hariri University](https://www.rhu.edu.lb/). Since 2019, I fix hardware at the component level — GPUs, motherboards, laptops, and storage.
+Self-taught electronics repair technician and computer science student at <a href="https://www.rhu.edu.lb/" target="_blank" rel="noopener noreferrer">Rafik Hariri University</a>. Since 2019, I fix hardware at the component level — GPUs, motherboards, laptops, and storage.
 
-I run [**The Logiq Lab**](https://thelogiqlab.com) in Rmeileh: bench diagnostics, honest repair, 60-day warranty. No fix, no fee. I also build the site, our tools, and side projects between hardware and code.
+I run <a href="https://thelogiqlab.com" target="_blank" rel="noopener noreferrer"><strong>The Logiq Lab</strong></a> in Rmeileh: bench diagnostics, honest repair, 60-day warranty. No fix, no fee. I also build the site, our tools, and side projects between hardware and code.
 
 ---
 
 ## What I'm working on
 
 <p>
-  <a href="https://thelogiqlab.com"><img src="https://thelogiqlab.com/images/logo-mark.png" height="32" valign="middle" alt="" /></a>
-  &nbsp;
-  <a href="https://thelogiqlab.com"><strong>The Logiq Lab</strong></a> — component-level repair and tested parts
+  <a href="https://thelogiqlab.com" target="_blank" rel="noopener noreferrer"><img src="https://thelogiqlab.com/images/logo-mark.png" height="32" valign="middle" alt="" hspace="6" /></a><a href="https://thelogiqlab.com" target="_blank" rel="noopener noreferrer"><strong>The Logiq Lab</strong></a> — component-level repair and tested parts
 </p>
 
 <p>
-  <a href="https://www.youtube.com/@TheLogiqLab"><img src="https://cdn.simpleicons.org/youtube/FF0000" height="32" valign="middle" alt="" /></a>
-  &nbsp;
-  <a href="https://www.youtube.com/@TheLogiqLab"><strong>YouTube</strong></a> — repair walkthroughs and lab content
+  <a href="https://www.youtube.com/@TheLogiqLab" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/youtube/FF0000" height="32" valign="middle" alt="" hspace="6" /></a><a href="https://www.youtube.com/@TheLogiqLab" target="_blank" rel="noopener noreferrer"><strong>YouTube</strong></a> — repair walkthroughs and lab content
 </p>
 
 <p>
-  <img src="https://cdn.simpleicons.org/github/E7E5E4" height="32" valign="middle" alt="" />
-  &nbsp;
-  <strong>Side projects</strong> — web apps and tools between circuits and code
+  <img src="https://cdn.simpleicons.org/github/E7E5E4" height="32" valign="middle" alt="" hspace="6" /><strong>Side projects</strong> — web apps and tools between circuits and code
 </p>
 
 ---
