@@ -38,9 +38,15 @@ I run <a href="https://thelogiqlab.com" target="_blank" rel="noopener noreferrer
 
 ## Tech & tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,supabase,git,cs,linux&perline=8" alt="Tech stack" />
-</p>
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| <img src="./assets/claude.svg" height="44" alt="Claude Code" /><br><sub>Claude Code</sub> | <img src="./assets/cursor.png" height="44" alt="Cursor" /><br><sub>Cursor</sub> | <img src="./assets/supabase.svg" height="44" alt="Supabase" /><br><sub>Supabase</sub> |
+| <img src="./assets/mats-mods.svg" height="44" alt="NVIDIA MATS/MODS" /><br><sub>MATS / MODS</sub> | <img src="./assets/tserver.svg" height="44" alt="AMD Tserver" /><br><sub>AMD Tserver</sub> | <img src="./assets/oscilloscope.png" height="44" alt="Oscilloscope" /><br><sub>Oscilloscope</sub> |
+| <img src="./assets/uefitool.png" height="44" alt="UEFITool" /><br><sub>UEFITool</sub> | <img src="./assets/xgpro.png" height="44" alt="XGPRO" /><br><sub>XGPRO</sub> | <img src="./assets/winmerge.png" height="44" alt="WinMerge" /><br><sub>WinMerge</sub> |
+
+</div>
 
 ---
 
