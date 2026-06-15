@@ -10,7 +10,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mohamadmoheb2122" target="_blank" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="48" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="48" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@TheLogiqLab" target="_blank" title="YouTube">
