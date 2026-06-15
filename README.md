@@ -39,13 +39,19 @@ I run <a href="https://thelogiqlab.com" target="_blank" rel="noopener noreferrer
 ## Tech & tools
 
 <div align="center">
-
-| | | |
-|:---:|:---:|:---:|
-| <img src="./assets/claude.svg" height="44" alt="Claude Code" /><br><sub>Claude Code</sub> | <img src="./assets/cursor.png" height="44" alt="Cursor" /><br><sub>Cursor</sub> | <img src="./assets/supabase.svg" height="44" alt="Supabase" /><br><sub>Supabase</sub> |
-| <img src="./assets/mats-mods.svg" height="44" alt="NVIDIA MATS/MODS" /><br><sub>MATS / MODS</sub> | <img src="./assets/tserver.svg" height="44" alt="AMD Tserver" /><br><sub>AMD Tserver</sub> | <img src="./assets/oscilloscope.png" height="44" alt="Oscilloscope" /><br><sub>Oscilloscope</sub> |
-| <img src="./assets/uefitool.png" height="44" alt="UEFITool" /><br><sub>UEFITool</sub> | <img src="./assets/xgpro.png" height="44" alt="XGPRO" /><br><sub>XGPRO</sub> | <img src="./assets/winmerge.png" height="44" alt="WinMerge" /><br><sub>WinMerge</sub> |
-
+  <table cellpadding="12">
+    <tr>
+      <td align="center"><img src="./assets/claude.svg" height="40" alt="Claude Code" /><br><sub>Claude</sub></td>
+      <td align="center"><img src="./assets/cursor.png" height="40" alt="Cursor" /><br><sub>Cursor</sub></td>
+      <td align="center"><img src="./assets/supabase.svg" height="40" alt="Supabase" /><br><sub>Supabase</sub></td>
+      <td align="center"><img src="./assets/mats-mods.svg" height="40" alt="MATS / MODS" /><br><sub>MATS</sub></td>
+      <td align="center"><img src="./assets/tserver.svg" height="40" alt="AMD Tserver" /><br><sub>Tserver</sub></td>
+      <td align="center"><img src="./assets/oscilloscope.png" height="40" alt="Oscilloscope" /><br><sub>Scope</sub></td>
+      <td align="center"><img src="./assets/uefitool.png" height="40" alt="UEFITool" /><br><sub>UEFI</sub></td>
+      <td align="center"><img src="./assets/xgpro.png" height="40" alt="XGPRO" /><br><sub>XGPRO</sub></td>
+      <td align="center"><img src="./assets/winmerge.png" height="40" alt="WinMerge" /><br><sub>WinMerge</sub></td>
+    </tr>
+  </table>
 </div>
 
 ---
