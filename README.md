@@ -14,7 +14,7 @@
 
 ## About me
 
-Self-taught electronics repair technician and computer science student at <a href="https://www.rhu.edu.lb/" target="_blank" rel="noopener noreferrer">Rafik Hariri University</a>. Since 2019, I fix hardware at the component level — GPUs, motherboards, laptops, and storage.
+Electronics repair technician and computer science student at <a href="https://www.rhu.edu.lb/" target="_blank" rel="noopener noreferrer">Rafik Hariri University</a>. Since 2021, I fix hardware at the component level: GPUs, motherboards, laptops, and Data Recovery.
 
 I run <a href="https://thelogiqlab.com" target="_blank" rel="noopener noreferrer"><strong>The Logiq Lab</strong></a> in Rmeileh: bench diagnostics, honest repair, 60-day warranty. No fix, no fee. I also build the site, our tools, and side projects between hardware and code.
 
@@ -51,4 +51,4 @@ I run <a href="https://thelogiqlab.com" target="_blank" rel="noopener noreferrer
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamadMoheb&hide_border=true&background=1C1917&stroke=44403C&ring=F59E0B&fire=FBBF24&currStreakNum=FEF3C7&sideNums=E7E5E4&currStreakLabel=D6D3D1&sideLabels=A8A29E&dates=78716C" alt="GitHub streak" />
 </p>
 
-<p align="center"><i>Repairing what others write off — one trace at a time.</i></p>
+<p align="center"><i>Repairing what others write off</i></p>
