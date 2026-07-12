@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://thelogiqlab.com" target="_blank" rel="noopener noreferrer" title="The Logiq Lab"><img src="https://thelogiqlab.com/images/logo-mark.png" alt="The Logiq Lab" height="56" /></a><!--
+  <a href="https://thelogiqlab.com" target="_blank" rel="noopener noreferrer" title="The Logiq Lab"><img src="./assets/logiq-lab.svg" alt="The Logiq Lab" height="56" /></a><!--
   --><a href="https://www.linkedin.com/in/mohamadmoheb2122" target="_blank" rel="noopener noreferrer" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="48" hspace="14" /></a><!--
   --><a href="https://www.youtube.com/@TheLogiqLab" target="_blank" rel="noopener noreferrer" title="YouTube"><img src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube" height="48" hspace="14" /></a>
 </p>
@@ -23,7 +23,7 @@ I run <a href="https://thelogiqlab.com" target="_blank" rel="noopener noreferrer
 ## What I'm working on
 
 <p>
-  <a href="https://thelogiqlab.com" target="_blank" rel="noopener noreferrer"><img src="https://thelogiqlab.com/images/logo-mark.png" height="32" valign="middle" alt="" hspace="6" /></a><a href="https://thelogiqlab.com" target="_blank" rel="noopener noreferrer"><strong>The Logiq Lab</strong></a> — component-level repair and tested parts
+  <a href="https://thelogiqlab.com" target="_blank" rel="noopener noreferrer"><img src="./assets/logiq-lab.svg" height="32" valign="middle" alt="" hspace="6" /></a><a href="https://thelogiqlab.com" target="_blank" rel="noopener noreferrer"><strong>The Logiq Lab</strong></a> — component-level repair and tested parts
 </p>
 
 <p>
