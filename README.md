@@ -54,6 +54,6 @@ I run <a href="https://thelogiqlab.com" target="_blank" rel="noopener noreferrer
 ## GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohamadMoheb&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=1c1917&title_color=F59E0B&icon_color=FBBF24&text_color=E7E5E4&border_radius=10" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamadMoheb&hide_border=true&background=1C1917&stroke=44403C&ring=F59E0B&fire=FBBF24&currStreakNum=FEF3C7&sideNums=E7E5E4&currStreakLabel=D6D3D1&sideLabels=A8A29E&dates=78716C" alt="GitHub streak" />
+  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=MohamadMoheb&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=1c1917&title_color=F59E0B&icon_color=FBBF24&text_color=E7E5E4&border_radius=10&cache_seconds=1800" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=MohamadMoheb&hide_border=true&background=1C1917&stroke=44403C&ring=F59E0B&fire=FBBF24&currStreakNum=FEF3C7&sideNums=E7E5E4&currStreakLabel=D6D3D1&sideLabels=A8A29E&dates=78716C&cache_seconds=1800" alt="GitHub streak" />
 </p>
